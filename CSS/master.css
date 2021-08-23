@@ -87,7 +87,7 @@ section + section a {
   position: relative;
   cursor: pointer;
 }
-section + section span:hover {
+section + section a:hover {
   border-color: var(--Soft-Magenta);
   color: var(--Soft-Magenta);
 }
